@@ -77,10 +77,3 @@ My goal is to develop efficient, scalable, and reliable software while continuou
 
 ---
 
-## 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/hasanugras/hasanugras/output/snake-dark.svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=footer"/>
-</p>
